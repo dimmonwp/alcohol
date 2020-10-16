@@ -1,0 +1,93 @@
+ body {
+ 	background-image: url(1.jpg);
+ }
+ 
+  *{
+  	box-sizing: border-box;
+
+  }
+
+a {
+
+	text-decoration: none;
+	display: inline-block;
+}
+	
+ul,li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+p{
+	display: inline-block;
+}
+.contair {
+	max-width: 1170px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+  body {
+font-family: Comic Sans MS;
+
+  }
+   .menu {
+   	color: white;
+   	font-family: antarctic;
+   	font-size: 80px;
+   	text-align: center;
+   }
+   .ho19{ border-radius: 100px; /* Радиус скругления */
+    float: left;
+  	margin-left: 50px;
+  	margin-top: 50px;
+  	height: 225px;
+  display: inline-block;
+position: absolute;}
+
+  	.info19 {
+  		position: absolute;
+display: inline-block;
+color: white;
+font-size: 25px;
+margin-top: 130px;
+margin-left: 600px;
+
+  	}
+  	#round {
+  		border-radius: 100px;
+
+  	}
+  	.mn {
+  		float: right;
+  		margin-top: 150px;
+  		margin-right: 320px;
+  	}
+ .mn a+a {
+ 	padding-left: 25px;
+ }
+ .bd {
+ 	border-radius: 100px; /* Радиус скругления */
+    float: left;
+  	margin-left: 50px;
+  	margin-top: 350px;
+  	height: 225px;
+  display: inline-block;
+position: absolute;
+ }
+ .info19bd {
+ 	position: absolute;
+display: inline-block;
+color: white;
+font-size: 25px;
+margin-top: 450px;
+margin-left: 600px;
+ }
+ .mnbd {
+ 	float: right;
+  		margin-top: 450px;
+  		margin-right: -155px;
+
+ }
+ .mnbd a+a {
+ 	padding-left: 25px;
+ }

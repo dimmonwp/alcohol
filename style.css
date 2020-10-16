@@ -1,0 +1,129 @@
+ body {
+ 	background-image: url(1.jpg);
+ }
+ 
+  *{
+  	box-sizing: border-box;
+  }
+a {
+
+	text-decoration: none;
+	display: inline-block;
+}
+	
+ul,li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.contair {
+	max-width: 1170px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+  body {
+
+
+  }
+  .menu {
+  	text-align: center;
+  	margin-top: 50px;
+  }
+ .menu li{
+ 	display: inline-block;
+ 	border: 25px;
+ 	}
+.menu a {
+	color: white;
+	font-family: antarctic;
+	font-size: 60px;
+
+  }
+  .menu li+li {
+  	padding-left: 80px;
+  }
+.undermenu h1,h2{
+	font-family: antarctic;
+	color: white;
+	font-size: 80px;
+	text-align: center;
+}
+h2 {
+	font-size: 63px;
+}
+
+.button {
+	 
+       margin-left: 45%;
+
+}
+a.button{
+font-size: 25px;	
+  display: inline-block;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  text-shadow: 0 -1px rgba(0,0,0,.5);
+  user-select: none;
+  padding: .7em 1.5em;
+  border: 1px solid rgb(80,32,0);
+  border-radius: 5px;
+  font-family: Comic Sans MS;
+  outline: none;
+  background: rgb(147,80,36) linear-gradient(rgb(64,79,97), rgb(64,79,97) 80%);
+  box-shadow:
+   0 6px rgb(56, 69, 84),
+   0 3px 15px rgba(0,0,0,.4),
+   inset 0 1px rgba(255,255,255,.3),
+   inset 0 0 3px rgba(255,255,255,.5);
+  transition: .2s;
+} 
+.button:hover {
+  background: rgb(64,79,97) linear-gradient(rgb(126,69,31), rgb(167,91,41) 80%);
+}
+.button:active {
+  background: rgb(64,79,97) linear-gradient(rgb(120,63,25) 20%, rgb(167,91,41));
+  box-shadow:
+   0 2px rgb(36, 45, 56),
+   0 1px 6px rgba(0,0,0,.4),
+   inset 0 1px rgba(255,255,255,.3),
+   inset 0 0 3px rgba(255,255,255,.5);
+  -webkit-transform: translate(0, 4px);
+  transform: translate(0, 4px);
+}
+footer {
+	margin-top: 250px;
+
+}
+.footer {
+	margin-top: 100px;
+
+}
+  .menums {
+
+  	text-align: center;
+  	margin-top: 50px;
+  }
+ .menums li{
+ 	display: inline-block;
+ 	border: 25px;
+ 	}
+.menums a {
+	color: white;
+	font-family: antarctic;
+	font-size: 30px;
+
+  }
+  .menums li+li {
+  	padding-left: 80px;
+  }
+  .inst {
+  	
+  	width: 39px;
+  	height: 39px;
+  }
+  .tg{
+  
+  	width: 39px;
+  	height: 39px;
+  }

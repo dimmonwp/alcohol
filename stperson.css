@@ -1,0 +1,209 @@
+ body {
+ 	background-image: url(1.jpg);
+ }
+ 
+  *{
+  	box-sizing: border-box;
+  }
+a {
+
+	text-decoration: none;
+	display: inline-block;
+}
+	
+ul,li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.contair {
+	max-width: 1170px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+  body {
+
+
+  }
+  .dm {
+  	 border-radius: 100px; /* Радиус скругления */
+    float: left;
+  	margin-left: 50px;
+  	margin-top: 50px;
+  	height: 225px;
+  }
+  .txdm {
+  	position: absolute;
+  	margin-left: 250px;
+  	margin-top: 70px;
+  	font-family: Comic Sans MS;
+	color: white;
+	font-size: 30px;
+  }
+  .mes {
+  	margin-left: 800px;
+  	position: absolute;
+  	margin-top: 100px;
+  }
+  .mes a+a {
+  	padding-left: 80px;
+  
+ }
+ .se {
+  	 border-radius: 100px; /* Радиус скругления */
+    
+  	margin-right: 50px;
+  	margin-top: 250px;
+  	height: 225px;
+  	float: right;
+
+  }
+  .txdms {
+  	
+  	margin-left: : 800px;
+  	margin-top: 300px;
+  	font-family: Comic Sans MS;
+	color: white;
+	font-size: 30px;
+	float: right;
+	
+  }
+  .mess {
+  	margin-left: : 500px;
+  	
+  	
+  	margin-top: 345px;
+  	float: left;
+  }
+  .mess a+a {
+  	padding-left: 80px;
+  }
+    .dmz {
+  	 border-radius: 100px; /* Радиус скругления */
+    float: left;
+  	margin-left: -400px;
+  	margin-top: 500px;
+  	height: 225px;
+  }
+  .txdmz {
+  	position: absolute;
+  	margin-left: 280px;
+  	margin-top: 540px;
+  	font-family: Comic Sans MS;
+	color: white;
+	font-size: 30px;
+  }
+  .mesz {
+  	margin-left: 800px;
+  	position: absolute;
+  	margin-top: 570px;
+  }
+  .mesz a+a {
+  	padding-left: 80px;
+  
+ }
+ .sed {
+  	 border-radius: 100px; /* Радиус скругления */
+    margin-right: 50px;
+  	margin-left: 1250px;
+  	margin-top: 250px;
+  	height: 225px;
+  	float: right;
+
+  }
+  .txdmd {
+  	
+  	margin-left: : 800px;
+margin-top: -170px;
+margin-right: 250PX;
+  	font-family: Comic Sans MS;
+	color: white;
+	font-size: 30px;
+	float: right;
+	
+  }
+  .mesd {
+  margin-top: -130px; 
+  margin-left: 220px;
+  	float: left;
+  }
+  .mesd a+a {
+  	padding-left: 80px;
+  }
+
+.dmt {
+  	 border-radius: 100px; /* Радиус скругления */
+    float: left;
+  	margin-left: 30px;
+  	margin-top: 100px;
+  	height: 250px;
+  }
+  .txdmt {
+  	position: absolute;
+  	margin-left: 280px;
+  	margin-top: 1100px;
+  	font-family: Comic Sans MS;
+	color: white;
+	font-size: 30px;
+  }
+  .mest {
+  	margin-left: 800px;
+  	position: absolute;
+  	margin-top: 1120px;
+  }
+  .mest a+a {
+  	padding-left: 80px;
+  
+ }
+ .seso {
+  	 border-radius: 100px; /* Радиус скругления */
+    margin-right: 50px;
+  	margin-left: 1250px;
+  	margin-top: 10px;
+  	height: 255px;
+  	float: right;
+
+  }
+  .txdmso {
+  	
+  	margin-left: : 800px;
+margin-top: -180px;
+margin-right: 260PX;
+  	font-family: Comic Sans MS;
+	color: white;
+	font-size: 30px;
+	float: right;
+	
+  }
+  .messo {
+  margin-top: -130px; 
+  margin-left: 220px;
+  	float: left;
+  }
+  .messo a+a {
+  	padding-left: 80px;
+  }
+  .dml {
+  	 border-radius: 100px; /* Радиус скругления */
+    float: left;
+  	margin-left: 30px;
+  	margin-top: 100px;
+  	height: 250px;
+  }
+  .txdml {
+  	position: absolute;
+  	margin-left: 300px;
+  	margin-top: 1700px;
+  	font-family: Comic Sans MS;
+	color: white;
+	font-size: 30px;
+  }
+  .mesl {
+  	margin-left: 800px;
+  	position: absolute;
+  	margin-top: 1750px;
+  }
+  .mesl a+a {
+  	padding-left: 80px;
+  
+ }
